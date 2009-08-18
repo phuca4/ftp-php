@@ -1,4 +1,4 @@
-The Nette Framework source code repository will now be managed using the Git. You can browse the source, clone it, and submit patches at our new Github site at:
+The FTP for PHP source code repository will now be managed using the Git. You can browse the source, clone it, and submit patches at our new Github site at:
 
 http://github.com/dg/ftp-php/tree/master
 
