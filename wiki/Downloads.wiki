@@ -1,10 +1,10 @@
 The latest stable release of FTP for PHP is available at:
 
-http://download.nettephp.com/ftp.zip
+http://files.nette.org/ftp.zip
 
 
 ===Source code===
 
 You can browse the source, clone it, and submit patches at Github site at:
 
-http://github.com/dg/ftp-php/tree/master
+http://github.com/dg/ftp-php
